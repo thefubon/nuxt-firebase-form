@@ -29,12 +29,6 @@ type="submit" Registration
 FormData.vue
 ```
 
-## Storyblok and Vuelidate
-
-[Video Tutorial](https://www.youtube.com/watch?v=lA4VvL0ZXIg&t=19s)
-
-[Article Tutorial](https://www.storyblok.com/tp/dynamic-forms-with-storyblok-and-nuxt-js)
-
 ## UTM
 
 ```bash
